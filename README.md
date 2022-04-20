@@ -1,8 +1,8 @@
-### Привет!
+# Привет!
 
 Меня зовут Никита Черепня и я изучаю **frontend**.
 
-Что я знаю и умею
+##Что я знаю и умею
 
 * JavaScript (основы языка, ES6)
 * HTML
@@ -14,4 +14,7 @@
 * Firebase
 * MongoDB
 
-[Мое портфолио](https://github.com/cherry-pynya/my-resume)
+##[Мое портфолио](https://github.com/cherry-pynya/my-resume)
+
+## Курсы и дипломы
+* [Нетология, веб-разработчик с нуля](https://github.com/cherry-pynya/my-resume/blob/main/public/cert.png)
