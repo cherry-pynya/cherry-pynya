@@ -1,16 +1,17 @@
-### Hi there 👋
+### Привет!
 
-<!--
-**cherry-pynya/cherry-pynya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Никита Черепня и я изучаю **frontend**.
 
-Here are some ideas to get you started:
+Что я знаю и умею
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* JavaScript (основы языка, ES6)
+* HTML
+* CSS (SASS, flexbox, простые анимации, адаптивная верстка, резиновая верстка)
+* React (Context API, Redux, Redux Thunk, React Router, Custom Hooks)
+* TypeScript
+* node.js
+* GitHub
+* Firebase
+* MongoDB
+
+[Мое портфолио](https://github.com/cherry-pynya/my-resume)
