@@ -10,7 +10,7 @@
 * React (Context API, Redux, Redux Thunk, React Router, Custom Hooks)
 * TypeScript
 * node.js
-* GitHub
+* Git
 * Firebase
 * MongoDB
 
